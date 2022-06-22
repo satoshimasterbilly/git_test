@@ -1,2 +1,3 @@
 Bllys first repo
-This is so cool! 
+Fast track Git education here on TOP 
+Not just awesome , but I am learning about Git!
